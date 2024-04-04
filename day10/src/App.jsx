@@ -6,6 +6,7 @@ function App() {
     <>
       <Welcome isMember={false} name={"조성경"} />
       <Welcome isMember={true} name={"조성경"} />
+      <Welcome />
     </>
   );
 }
