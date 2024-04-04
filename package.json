@@ -11,6 +11,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
-    "chance": "^1.1.11"
+    "chance": "^1.1.11",
+    "vite": "^5.2.8"
   }
 }
